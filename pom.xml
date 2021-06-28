@@ -45,27 +45,20 @@
     </dependency>
   </dependencies>
   
- <distributionManagement>
+  <distributionManagement>
         <repository>
             <id>inhouse</id>
             <name>Adil's Inhouse Releases</name>
             <url>http://localhost:8081/repository/inhouse/</url>
-        </repository>
-        
-    </distributionManagement>
-	
-	 <repositories>
-   
-        <repository>
-            <id>inhouse</id>
-            <name>orange inhouse repository</name>
-            <url>http://localhost:8081/repository/inhouse/</url>
-            <releases>
+			
+			 <releases>
                 <enabled>true</enabled>
             </releases>
             <snapshots>
                 <enabled>false</enabled>
             </snapshots>
+			
         </repository>
-		</repositories>
+        
+    </distributionManagement>
 </project>
