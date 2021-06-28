@@ -3,7 +3,7 @@
 
   <groupId>co.ma</groupId>
   <artifactId>helloMaven</artifactId>
-  <version>1.0.4</version>
+  <version>1.0.5-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>helloMaven</name>
@@ -20,7 +20,7 @@
    <url>https://github.com/aboukrourou/Test</url>
    <developerConnection>scm:git:https://github.com/aboukrourou/Test.git</developerConnection>
  
-    <tag>v1.0.4</tag>
+    <tag>v1.0.0</tag>
   </scm>
 <build>
 <plugins>
