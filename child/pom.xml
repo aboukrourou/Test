@@ -3,7 +3,7 @@
 
   <groupId>co.ma</groupId>
   <artifactId>child</artifactId>
-  <version>1.0.4-SNAPSHOT</version>
+  <version>1.0.4</version>
   <packaging>jar</packaging>
 
   <name>helloMaven</name>
